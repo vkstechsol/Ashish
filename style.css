@@ -490,10 +490,10 @@ SERVICES
 }
 
 /* Mobile */
-@media (max-width:576px){
+@media (max-width:550px){
 
     section{
-        padding:70px 20px;
+        padding:60px 20px;
     }
 
     .logo h2{
