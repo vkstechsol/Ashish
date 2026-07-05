@@ -216,12 +216,12 @@ ABOUT
 }
 
 .about-image img{
-    width:60%;
-    border-radius:10px;
+    width:50%;
+    border-radius:5px;
 }
 
 .about-text h3{
-    font-size:28px;
+    font-size:25px;
     margin-bottom:16px;
 }
 
